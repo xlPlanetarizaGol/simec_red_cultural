@@ -1,0 +1,4 @@
+web: waitress-serve --host=127.0.0.1 --port=$PORT simec_red_cultural.wsgi:application
+
+
+
